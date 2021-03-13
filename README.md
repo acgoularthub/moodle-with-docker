@@ -87,6 +87,11 @@ Aqui temos nossos contêineres ativos e funcionando:
 
 ![Docker ps -a](images/dockerpsMenosA.png)
 
+O login e senha utilizado para o primeiro acesso como root a plataforma moodle é:
+
+Login: user
+Senha: bitnami
+
 ### Comando úteis para a manutenção dos contêineres
 
 Verificar status dos contêineres:
