@@ -89,8 +89,8 @@ Aqui temos nossos contêineres ativos e funcionando:
 
 O login e senha utilizado para o primeiro acesso como root a plataforma moodle é:
 
-Login: user
-Senha: bitnami
+**Login:** user
+**Senha:** bitnami
 
 ### Comando úteis para a manutenção dos contêineres
 
